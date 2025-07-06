@@ -59,12 +59,6 @@ You need to have [Android Studio](https://developer.android.com/studio) and [Vis
   - Open `nexara_cart` folder with android studio.
   - Run `main.dart` on mobile or virtual emulator.
 
-## Contact 📩
-
-Wanna reach out to me? DM me at 👇
-
-Email: mahmudul15-13791@diu.edu.bd
-
 ## Credits 🤝
 
 - [Flutter ECommerce App with Admin Panel](https://www.youtube.com/watch?v=s8lt2bc0rDQ) by rapid flutter
